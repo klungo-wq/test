@@ -1,0 +1,207 @@
+* Module 1
+
+Property isn't just objects but rather relates to:
+
+- Rights of ownership
+- Possesion over material objects
+
+
+E.G if you rent a property you are in possession of it but the landlord retains ownership. The owner is free to use it, not use it, trash it or sell it. As the legal owner he can do whatever he wants.
+
+If someone was to rent the property from him they can only exercise enjoyment from the property as tenants. So if they caused damage they would have to compensate the landlord for the cost of repair, they also have no rights whatsoever to trash the property.
+
+Ownership rights are:
+
+1) Enjoyment
+2) Destruction (subject to the rights of others)
+3) Disposition
+
+
+Different ways of owning property:
+
+1) Creation (you built it bro)
+2) Occupation (like squatters rights)
+3) Progeny: Say a farmer breeds animals, the offspring will also be his property
+4) Property gained through a gift or by purchasing
+5) Succession (left behind in a will or inheritance)
+
+
+All land in England is owned by the crown. Those who actually "own" the land have just purchased freehold possession of it.
+
+
+Possession can be broken into two categories.
+
+1) Corpus Possession.
+   It is the intention to own something and the physical control over it. Either direct control or indirect such as an agent. Continuous control.
+
+2) Animus Possidendi
+   Control may not be actively exerted but there is an intent to have exclusive control over property. Others would be prohibited from using it.
+
+
+Possession can happen legally and illegally.
+E.G: The landlord owns the freehold over the land. Another may legally be in possession of the land with permission from the owner. But if someone breaks into the house, that is trespassing and they are in illegal possession of the land. (Exception being squatters rights)
+
+
+Relationship between ownership and possession. Possession may be used as evidence of ownership. Like when dealing with unregistered land.
+
+* Module 2
+
+
+Real property relates to freehold land, buildings and the rights over such land. If the owner was unlawfully disposed they are entitled to bring 'real action' against the person who threw them out. If a dispossession was for any other type of property then you would seek compensation for the value of the property rather than repossession.
+
+Rule of thumb: Items that are fixed to the property will come included in any transfer of ownership. Any other item is a chattel.
+
+Some examples of chattels include furniture, refrigerators, washing machines, curtains, beds, and carpets. Chattels are not automatically included in property sales, and the seller would be expected to remove all items under this category before the property changes ownership unless both parties have agreed otherwise.
+
+Property not considered real is known as personal property or Chattels.
+
+Personal property can be broken into two categories:
+
+1) Chattels Real
+   This usually refers to leasehold land
+
+2) Chattels Personal
+   Chattels personal are personal property that are movable and which are not chattels real or real property.
+
+
+These two can be broken down further into two sub-categories:
+
+- Chooses in action
+  Often referred to as incorporeal chattels. (a type of property that is intangible and cannot be physically touched or seen)
+  E.G: Goodwill, debt, patents, intellectual rights.
+
+- Chooses in possession
+  Often referred to as corporeal chattels. (things you can see and touch) property you can transfer ownership by physical deliveries.
+  E.G: Cars, jewellery, electronics etc.
+
+
+Any Chattels fixed to the land becomes part of the land, a 'fixture'.
+
+#+BEGIN_QUOTE
+EXAMPLE
+The owner of a mill purchased some looms for use in his mill. They were attached to stone floor by nails driven into wood beams. They could quite easily be removed. The owner then mortgaged the land and failed to keep up the payments and the mill was repossessed. The question for the court was whether the looms were fixtures forming part of the land or whether they remained chattels.
+
+Held: The looms had become fixtures and thus formed part of the land mortgaged.
+#+END_QUOTE
+
+Annexation, a formal act whereby a state proclaims its sovereignty over territory hitherto outside its domain.
+
+Prima Facie: A Latin term literally meaning "at first appearance" or "on the face of it". It is used in both civil and criminal law to denote that, on its face, sufficient evidence exists to support a case.
+
+Only the owner (or those lawfully appointed to exercise the rights of an owner) may remove fixtures from land. If a tenant fixes a chattel to the land then only the owner can remove it.
+
+#+BEGIN_QUOTE
+EXAMPLE
+A tenant in a Ground floor flat with the consent of the landlord purchased some electrical wiring, roofing equipment, wall panels and flooring. He installed them into the conservatory. By doing this they now become property of the landlord as they form part of the flat. When the tenancy came to an end the tenant removed the wiring which involved damaging the wall panels. He was convicted of criminal damage and appealed as he believed he had the right to damage the panels since he paid for them.
+
+Held: His conviction was quashed. He lacked the mens rea of criminal damage as he believed the property he damaged belonged to him. It was irrelevant that the mistake was one of law rather than fact as it related to a mistake of civil law rather than criminal law.
+#+END_QUOTE
+
+Chattels found under the surface of the land belong to the landowner. Unless they are items classified as "treasure"
+
+* Module 3
+
+Definition of land: "Land" includes land of any tenure, mines and minerals, whether or not held apart from the surface, buildings or parts of buildings (whether the division is horizontal, vertical or made in any other way) and other hereditaments; also a manor, advowson, and a rent and other incorporeal hereditaments, and an easement, ... (google this paragraph to find full definition)
+
+- Tenure
+  This means the basis upon which land is held (or conditions)
+
+- Estate
+  This means the length of time for which the land is held
+
+#+BEGIN_QUOTE
+History Lesson
+
+Free Tenure:
+- Military
+  This related to land held in return for men to fight for the king
+- Spiritual
+  Held by the church
+- Socage
+  Land held for supplying men to work farms
+- Serjeanty
+  Land held in return for personal services to the king or lord
+
+
+Unfree Tenure: Land held by people who were lower class and who were sold along with the land.
+#+END_QUOTE
+
+
+Speaking of Estates relates to legal interest in the land, referring to what rights the possessor has over the land, how long they are entitled to be there and conditions upon usage of the land.
+
+** Freehold
+
+Freehold relates to the tenure of the property and the legal estate is the fee simple absolute in possession. It can be broken down like
+
+- Fee
+  Denotes that the estate is an estate of inheritance. It can be devised by will or inherited under laws of intestacy. (when someone dies without leaving a will)
+
+- Simple
+  Denotes that the estate is not a complicated one in that, on death, it is capable of passing to the owner's general heirs.
+
+- Absolute
+  Signifies that the estate is not subject to a condition, which will bring it to an end, but will continue forever. Thus it is distinguished from a conditional fee, which, may come to an end on the happening of an event.
+
+- In possession
+  Signifies that the grantee must be entitled to immediate possession of the estate. (could be physical possession but in law means being in receipt or being entitled to the rents or profits of the property)
+
+
+Thus the person holding the fee simple estate will in effect have absolute ownership lasting indefinitely and this ownership can be left to heirs.
+
+Transfer of a freehold from one person to another must be achieved by a deed of conveyance for unregistered or deed of transfer for registered land.
+
+** Leasehold
+
+Leasehold: A leasehold estate is a term of years absolute. Thus meaning the freeholder grants the estate to an individual for a specific period of time. Leases must have a specified length of time. Leases must also grant exclusive possession to the leaseholder.
+
+So in any given lease you will be find these parties:
+
+1) Lessor
+   Person granting the lease (also known as landlord)
+2) Lessee
+   Person who the lease is granted (leaseholder or tenant)
+
+
+Lessor grants a term of years absolute of possession to the leaseholder. When these years are up the lands reverts back to the lessor. During the lease the lessee will take exclusive possession of the land in return for whatever is requested by the Lessor. (Moolah) If the Lessee breaches the terms of lease, the lessor will be entitled to dispossess the lessee prior to the lease arriving at its conclusion date.
+
+Leasehold estate should be created by way of a deed. Although if a lease that has a term not exceeding 3 years then it doesn't needed to be created by deed. These shorted agreements (tenancies) can be created in less formal documents or even orally.
+
+** Equitable Estates in land
+
+1) Estate in Fee Tail
+   This type of estate only descends to a particular class of heirs. E.G all males.
+
+2) Estate for life
+   This type of estate remains for the duration of a tenant's life or a third party's life.
+
+
+Leasehold estate usually arises when a contract to grant a lease is entered into but a formal lease (by way of deed) is not completed.
+
+** Creation of Legal and Equitable Estates
+
+Grants of land by deed may take many forms. Some of these will give a legal estate while others will give an equitable estate. The type given can be established from the title or interest granted to the transferee.
+
+Legal estates:
+Must be created by way of deed, can be done in any of the following ways
+
+1) To 'A'
+   
+2) To 'A' in fee simple (if no date for creation is stated then it is deemed to take immediate effect
+   
+3) To 'A' and His Heirs (same as 2)
+
+
+Equitable Estates
+
+1) To A In Tail (this would create a 'Fee Tail' however the tenant has full rights of possession and enjoyment and these would pass on to his heirs upon his death. But heirs could be restricted to a tail male or tail female (descending through males or females only)
+   
+2) To A for Life (this estate would be granted to 'A' for his life and upon his death the estate terminates. This is called a 'Life Estate'
+
+3) To A as long as B shall survive (the estate continues during the life of another)
+
+   
+
+
+
+
+   
