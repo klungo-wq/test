@@ -204,4 +204,231 @@ Equitable Estates
 
 
 
+* Module 4
+
+** Registered land
+
+*** Registered title
+
+All titles must be stored electronically
+
+Proof of ownership is now verified through the register itself rather than the examination of deeds.
+
+Solicitors are provided with copies of the register and must update the register within two month if:
+
+1) A transfer of the freehold (for consideration of by way of gift)
+
+2) A grant of a lease (of more than seven years)
+
+3) An assignment of a lease which at a time of being assigned has more than 7 years remaining
+
+4) The granting of a first legal mortgage
+
+   This is done via the solicitors submitting all title deeds and documents to HMRC who will confirm that stamp duty has been paid. An application will also be submitted for registration, the land registry then investigate the title as it should be and subsequently carry out the registration.
+
+   The land register itself now represents a state backed guarantee that all deeds are correct and represents an official database of the owners of land and the various rights held in land.
+
+*** Priority in Registered Land
+
+The underlying principal of a system of land registration is that a person seeking to require an interest in land need only check the register to determine if the land is subject to any adverse interests. A person who is interested needs to take action to protect that interest by entering it on the register. Generally a purchaser will take free of any interests not on register, however this is not absolute. Depends on the type of interests involved.
+
+A basic rule is that priority between interests in registered land is given by order of creation. Earlier interests will be given priority over the later (on the face of things). First come first serve kind of thing.
+
+*BASIC RULE*
+
+1) The priority of an interest affecting a registered estate or charge is not affected by a disposition of the estate or charge.
+
+2) It makes no difference for the purposes of this section whether the interest or disposition is registered.
+
+
+In the case of a registered estate the following are the dispositions which are required to be completed by registration.
+
+a) a transfer
+b) where the registered estate is an estate in land, the grant of a term of years absolute. (a term of more than 7 years from the date of grant)
+c) where the registered estate is a franchise or manor, the grant of a lease
+d) the grant of a legal charge
+
+*Equitable Interests behind a trust*
+
+In many instances the question of priority will not arise in relation to equitable interests behind a trust since overreaching will operate to transfer the interests to the proceeds of sale. It is only where the capital moneys are paid to a single trustee that the issue of priority will arise. Where this is the case the beneficial interest may rank as an overriding interest if the occupational requirements are satisfied.
+
+*** Overriding interests in Registered Land.
+
+Overriding interests include leases under 7 years, legal easements and profits a prendre (a right to take something from another person's land), public rights of way, local land charges, mines and minerals, franchises, manorial rights, a right to rent reserved to the crown, non statutory rights in respect of an embankment or sea or river wall, right to payment in lieu of a tithe, a right in respect to the repair of a church. Any interest belonging to a person in actual occupation.
+
+An interest may become overriding in two situations
+
+1) Where the person claiming interest is in actual occupation and that occupation would be obvious on a reasonable inspection or
+
+2) Where the person claiming the interest is in actual occupation and the person to whom the disposition made has actual knowledge of the interest.
    
+* Module 5
+
+** Unregistered land and Doctrine of notice
+
+New dispositions of land must be registered. But there what if there is unregistered land.
+ 
+When we say registered or unregistered we are referring to registered or unregistered title. Title refers to proof of ownership.
+
+*** Unregistered Title
+
+Where land is unregistered, proof of ownership will be evidenced by a collection of deeds and documents that will be collectively referred to as the title deeds.
+
+Each time a transfer of ownership takes place additional documents are added to the bundle. Over time this can make the deeds to unregistered land quite large and complex.
+
+*** The Doctrine of Notice - Unregistered Land
+
+Doctrine of notice applied in unregistered land to determine priority of equitable interests not governed by the Land Charges Act 1925
+
+Under the Doctrine of a bona fide purchaser of a legal estate for value takes over any pre-existing equitable interest which is not registrable as a land charge, provided they did not have actual constructive or imputed notice of their existence.
+
+The Doctrine of Notice has no application in registered land where priority is determined by a separate regime including overriding and minor interests. The Doctrine of Notice is therefore relevant in unregistered land where the capital moneys of the conveyance were paid to a single trustee. For a purchaser or mortgagee to acquire the land free of the pre-existing equitable interest they must prove that they are a bona fide purchaser of a legal estate for value without notice.
+
+*Bona Fides*
+Is a latin term meaning good faith. The purchaser or mortgagee must demonstrate they acted in good faith in entering the transaction.
+
+*Legal Estate*
+This includes a purchase of the freehold, a legal lease or charge by way of legal mortgage
+
+*For Value*
+This excludes gifts and conveyances for a nominal consideration. The consideration need not be market value.
+
+*Without Notice*
+For the purchaser or mortgagee to take the legal estate free from the equitable interest, they must not have notice (knowledge) of the interest. Where a purchaser or mortgagee is aware or should have been aware of the equitable interest this affects their conscience and they are then bound by the interest.
+
+*Actual Notice*
+This is where the purchaser or mortgagee was consciously aware of the existence of the equitable interest.
+
+*Constructive Notice*
+Constructive notice is concerned with what the purchaser or mortgagee ought to be aware of or what they would have discovered by making reasonable inquiries.
+
+** Land Charges
+
+Some interests in unregistered land are able to be protected by registration. Called a land charge. Here are the following classes:
+
+*** Classes of Land Charges
+
+- Class A Land charge
+
+  A right to receive money that requires the person entitled to apply for it under an Act of Parliament.
+
+- Class B Land charge
+
+  A right to receive money automatically under an Act of Parliament without needing to apply.
+
+- Class C Land charge (1)
+
+  A puisine mortgage (basically a second mortgage) its not protected by the deposit of legal documents.
+
+- Class C Land charge (2)
+
+  A limited owners charge: an equitable charge for tenants for life or owners who pay Inheritance Tax or other liabilities. Priority given by law.
+
+- Class C Land charge (3)
+
+  A general equitable charge: equitable charge that's not secured by legal documents, not linked to a trust and not covered by other land charge categories.
+
+- Class C Land charge (4)
+
+  Estate contracts: includes a contract to transfer property, options to purchase or rights of pre-emption.
+
+- Class D (1) Land charge
+
+  Inland Revenue Charge
+
+- Class D (2) Land charge
+
+  Restrictive covenants. Only those entered on or after 1st Jan 1926. Restrictive covenants entered before this date are governed by the doctrine of notice.
+
+- Class D (3) Land charge
+
+  Equitable easements. (only those entered on or after 1st Jan 1926
+
+- Class E Land charge
+
+  Annuities created prior to Jan 1st 1926 and not registered to the register of annuities.
+
+- Class F Land charge
+
+  Right of occupation under Part 4 Family Law Act 1996 (protects spouses or other family members, property can't be sold without their knowledge or consent)
+
+
+*** Registration of Land Charges
+
+A land charge shall be registered in the name of the estate owner whose estate is intended to be affected.
+
+The name should be the same as that found in the conveyance by which the estate had been conveyed.
+
+Where a land charge has been registered in the correct name, this serves as actual notice of its existence. (however if a someone enters a contract to buy the land and a search of the register later reveals a land charge he didn't know about he is not obliged to complete the contract)
+
+Where a land charge is registered in an incorrect name, a subsequent interest may take priority.
+
+** Searches
+
+Searches of land charges register may be personal or official. An official search offers greater protection.
+
+An official search certificate is conclusive even if a mistake was made by the Land Registry. This means a purchaser can rely on the certificate and take priority over any land charges not disclosed on the certificate.
+
+** Unregistered Land Charges
+
+Where a land charge is not registered, the land charge will be void under certain circumstances, (statutory conditions) these statutory conditions are different depending on the class of land charge.
+
+- Class A
+  
+  A land charge is void against a purchaser of the land or of any interest in the land unless the charge is registered in the appropriate register before the completions of the purchase.
+
+- Class B, C(1), C(2), C(3)
+
+  A land charge of Class B or Class C other than an estate contract is void against a purchaser of the land or of any interest in the land unless the charge is registered in the appropriate register before the completion of the purchase.
+
+- Class C(4) and Class D
+
+  An estate contract and a land charge of Class D created or entered into on or after 1st January 1926 shall be void as against a purchaser or money or money's worth of legal estate in the land charged with it, unless the land charge is registered in the appropriate register.
+
+- Class F
+
+  A land charge of Class F is void against a purchaser of the land or of any interest in the land unless the charge is registered in the appropriate register before the completions of the purchase.
+
+- Exception
+
+  A void land charge may be held to be binding in instances estoppel. (can't go back on their word)
+  A person may be estopped from denying the existence of the land charge as held.
+
+
+
+
+* Simplified Terms
+
+*Bona Fides*
+This Latin term means "good faith." It means the buyer or lender must show they acted honestly when making the deal.
+
+*Legal Estate*
+This refers to ownership of property, which can include buying the freehold, holding a legal lease, or having a legal mortgage.
+
+*For Value*
+The transaction must involve something valuable in return, but it doesn't have to be full market value. Free gifts or very small payments don't count.
+
+*Without Notice*
+A buyer or lender isn't responsible for hidden interests in the property if they didn't know about them. If they knew or should have known about such claims, they might be bound by them.
+
+*Actual Notice*
+This means the buyer or lender was clearly aware of the claim on the property.
+
+*Constructive Interests*
+This means the buyer or lender should have known about something if they had made reasonable checks or inquiries. Its about what they ought to know, not just what they actually know.
+
+*Equitable Interest*
+An equitable interest is a legal right or claim on a property that isn't full ownership but gives someone a fair share or benefit. For example, if someone has invested in or has a promise related to the property, they may have an equitable interest in it.
+
+*Overriding Interests*
+Overriding interests are property rights that bind a new owner or lender, even if they're not registered on the lands official record. These rights "override" the registration system, meaning they still apply without being noted on the title.
+
+*Inland Revenue Charge*
+Security for unpaid taxes.
+E.G: John Owes 10,000 in unpaid taxes but can't pay. The tax authority places an Inland Revenue charge on his house. This means if John sells the house, the $10,000 must be paid from the sale proceeds before he receives anything. If John still doesn't pay, the tax authority might take legal action to sell the house and collect the debt.
+
+*Equitable Easements*
+An equitable easement is a legal agreement that gives the owner of one property the right to restrict the use of another property for the benefit of their own. The main difference between an equitable easement and a legal easement is that an equitable easement only binds a purchaser if they were already aware of it, making it possible to challenge.
+
+*Interest*
+Interest itself means someone's legal rights or claims over a piece of property.
