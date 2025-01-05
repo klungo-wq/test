@@ -1,14 +1,18 @@
 * Module 1
 
+** Property
+
 Property isn't just objects but rather relates to:
 
 - Rights of ownership
 - Possesion over material objects
 
-
+  
 E.G if you rent a property you are in possession of it but the landlord retains ownership. The owner is free to use it, not use it, trash it or sell it. As the legal owner he can do whatever he wants.
 
 If someone was to rent the property from him they can only exercise enjoyment from the property as tenants. So if they caused damage they would have to compensate the landlord for the cost of repair, they also have no rights whatsoever to trash the property.
+
+** Ownership
 
 Ownership rights are:
 
@@ -28,6 +32,7 @@ Different ways of owning property:
 
 All land in England is owned by the crown. Those who actually "own" the land have just purchased freehold possession of it.
 
+** Possession
 
 Possession can be broken into two categories.
 
@@ -41,17 +46,23 @@ Possession can be broken into two categories.
 Possession can happen legally and illegally.
 E.G: The landlord owns the freehold over the land. Another may legally be in possession of the land with permission from the owner. But if someone breaks into the house, that is trespassing and they are in illegal possession of the land. (Exception being squatters rights)
 
+*** Relationship
 
 Relationship between ownership and possession. Possession may be used as evidence of ownership. Like when dealing with unregistered land.
 
 * Module 2
 
+** Classification of Property
+
+*** Real Property
 
 Real property relates to freehold land, buildings and the rights over such land. If the owner was unlawfully disposed they are entitled to bring 'real action' against the person who threw them out. If a dispossession was for any other type of property then you would seek compensation for the value of the property rather than repossession.
 
 Rule of thumb: Items that are fixed to the property will come included in any transfer of ownership. Any other item is a chattel.
 
 Some examples of chattels include furniture, refrigerators, washing machines, curtains, beds, and carpets. Chattels are not automatically included in property sales, and the seller would be expected to remove all items under this category before the property changes ownership unless both parties have agreed otherwise.
+
+*** Personal Property
 
 Property not considered real is known as personal property or Chattels.
 
@@ -74,6 +85,7 @@ These two can be broken down further into two sub-categories:
   Often referred to as corporeal chattels. (things you can see and touch) property you can transfer ownership by physical deliveries.
   E.G: Cars, jewellery, electronics etc.
 
+** Fixtures or Chattels
 
 Any Chattels fixed to the land becomes part of the land, a 'fixture'.
 
@@ -101,6 +113,10 @@ Chattels found under the surface of the land belong to the landowner. Unless the
 
 * Module 3
 
+** Land and Estates
+
+*** Land
+
 Definition of land: "Land" includes land of any tenure, mines and minerals, whether or not held apart from the surface, buildings or parts of buildings (whether the division is horizontal, vertical or made in any other way) and other hereditaments; also a manor, advowson, and a rent and other incorporeal hereditaments, and an easement, ... (google this paragraph to find full definition)
 
 - Tenure
@@ -108,6 +124,8 @@ Definition of land: "Land" includes land of any tenure, mines and minerals, whet
 
 - Estate
   This means the length of time for which the land is held
+
+*** Tenure
 
 #+BEGIN_QUOTE
 History Lesson
@@ -126,6 +144,7 @@ Free Tenure:
 Unfree Tenure: Land held by people who were lower class and who were sold along with the land.
 #+END_QUOTE
 
+** Estates
 
 Speaking of Estates relates to legal interest in the land, referring to what rights the possessor has over the land, how long they are entitled to be there and conditions upon usage of the land.
 
