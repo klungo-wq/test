@@ -222,7 +222,6 @@ Equitable Estates
 
 
 
-
 * Module 4
 
 ** Registered land
@@ -413,8 +412,302 @@ Where a land charge is not registered, the land charge will be void under certai
   A void land charge may be held to be binding in instances estoppel. (can't go back on their word)
   A person may be estopped from denying the existence of the land charge as held.
 
+* Module 6
+
+** Land Trusts
+
+*** Express Trust
+
+An express trust is where the legal owners of the property declare that they hold the property on trust for specified beneficiaries.
+
+Requirements to create an express trust.
+
+1) An intention to create a trust
+
+   The legal owner must make it clear that they intend to hold the land for the benefit of another. (not as a gift)
+
+2) Declaration must be evidenced in writing
+
+   Requires the declaration of trust to be evidenced in writing and signed by the person declaring the trust. The written declaration must contain the material terms of the trust.
+
+3) Transfer of legal title to the trustee
+
+   Only applies when the legal owner intends to create an express trust by transferring the legal title to a third party.
+
+4) The trust must not offend the rule of perpetuity
 
 
+*** Resulting Trust
+
+Arises in the abscence of an express declaration where a person holds a legal title in circumstances where they cannot be taken to have full equitable ownership.
+
+
+**** Automatic Resulting Trust
+
+ An automatic resulting trust will arise where the settlor (trust creator) transfers property to the intended trustee but the trust has failed for some reason. The trustee holds the legal title of the property on trust. The beneficial or equitable ownership is retained by the settlor.
+
+**** Presumed Resulting Trust
+
+Presumed resulting trusts arise either from voluntary transfer of the legal estate or by contribution to the purchase price. In these situations it is presumed that the person did not intent to make a gift to the property or money unless there is a clear intention that they did so intend. In such circumstances a resulting trust arises and the transferor or the person making the contribution retains or takes a share in the beneficial interest. However in some relationships there is a counter presumption that a gift was intended. This is known as the presumption of advancement.
+
+If there exists evidence that a gift was intended, this will rebut the presumption of resulting trust and the transferee will be absolutely entitled to the property and the transferor will not be entitled to any share in the beneficial ownership.
+
+
+*** Constructive Trust
+
+Constructive trusts are trusts that may be implied in the absence of a declaration of trust, where the trustee has induced another to act to their detriment in the belief that they do so act to their detriment they would acquire a beneficial interest in the land. There is an overlap with resulting and constructive trusts since both generally involve a contribution to the purchase price, however, the two types of trusts are distinct. Whilst under resulting trusts the beneficial entitlement is calculated mathematically in proportion to the contribution to the purchase price, the shares of constructive trusts are determined by a number of factors that may result in the share being much greater than the amount contributed. There is also an overlap with constructive trusts and proprietary estoppel since both require  detriment and work on the basis that it would be unconscionable for the legal owner to deny the existence of the beneficial interest.
+
+(Imagine you and a friend decide to buy a big toy together. But instead of buying it the normal way, your friend says, "Hey, if you help me with this, I promise you'll get part of the toy, but you don’t have to write anything down."
+
+Now, you help out, but your friend doesn't keep their promise and tries to say the toy is only theirs. This wouldn’t feel right, right? You helped, and you were told you'd get some of the toy! This is where a constructive trust comes in. Even though there was no official paper or promise, the law says your friend must share the toy with you because you helped.
+
+But there's a difference between a constructive trust and a resulting trust. In a resulting trust, if you helped pay for the toy, you would get a share of the toy based exactly on how much you paid. For example, if you paid half, you get half of the toy.
+
+A constructive trust, on the other hand, can give you more than just a share based on how much you paid. It might take into account other things, like promises or the way you were treated, so you might get more than what you paid for, if that seems fair.
+
+Finally, proprietary estoppel is similar. It happens when someone promises you something (like part of the toy) and you believe that promise, so you act on it, but then they try to take it back. It's unfair for them to do that, so the law says they can't go back on their word, and you should get the share you were promised.
+
+So, in summary, all these ideas are about making sure people are treated fairly when promises are made, especially if someone helps out but doesn’t get what they expected.) - asked chatgpt to explain to a 7 year old.
+
+1) Inducement
+
+   It must be shown that the legal owner of the land induced the claimant to believe they would be entitled to a share in the ownership. There are two ways of demonstrating this:
+
+   - Express agreement
+
+   - Contribution to the acquisition
+
+2) Claimant must act to their detriment (i.e by contribution to purchase price)
+
+
+* Module 7
+
+** Special Interests
+
+There are three categories of land interest that we refer to as special. These are:
+
+*** Easements
+
+Easements refer to a right to use or restrict the use of another person's land in a particular way. A common example of an easement is a right of way.
+
+There must be a dominant and a servient tenement. The land on which the easement need exist is called the dominant tenement and the land which relies upon easement is known as the servient. (serving)
+
+It must be possible to include the easement in the subject matter of a grant by deed. There needs to be a capable grantor and a capable grantee. The grant must be of something that can be realistically defined and bare the resemblance of an easement. The tenements must be owned separately. Meaning the dominant and the serviant cannot be owned by the same person.
+
+*** Profits a Prendre
+
+This relates to the right to take something from the land of another. (E.G the right to fish from a stream etc.)
+
+The key differences between an easement and a Profit are:
+
+| Easement                                        | Profit                                                       |
+| Must relate to land that is annexed in some way | Can exist regardless of the proximity of various land owners |
+|                                                 | May be a several profit enjoyed exclusively by one person.   |
+|                                                 | May be a profit enjoyed by several people                    |
+
+Easements and Profits can be created via statute, prescription or grant:
+
+
+| Grant                                             | Prescription                                                          |
+| Most commonly used                                | Created purely by length of time it has been in existence             |
+| Owner the serviant tenement creates the servitude | Right has existed over a long period of time, it is recognised as law |
+| It need not be in writing.                        |                                                                       |
+
+
+*** Restrictive Covenants
+
+A restrictive covenant is an agreement involving restricting the use of freehold land. These agreements are not only binding on the on the originally contracted owners of the land.
+
+May be enforced subject to the following conditions:
+
+1) The covenant must be negative in nature (E.G one that prohibits something being done
+
+2) The covenant must "touch and concern" the land
+
+3) The land in respect of which the covenant is claimed must be owned by the person who seeks to enforce it.
+
+4) Where the claimant of the benefit of the covenant is not the original covenantee (E.g the person in whose favour the covenant was granted) he must show that the benefit of the covenant has been expressly assigned to him or that it was originally annexed to the land, or relates to land subject to a building scheme or a scheme of development.
+
+
+**  Rights above and below the surface of Land
+
+We used to think that the owner of the land owned everything up to the heavens and down to the depth of the Earth. This is no longer strictly the case.
+
+Landowners own the airspace above his land and may bring an action for trespass against an intruder or where another places an object which projects into their airspace. A sign etc
+This right is restricted to such a height as is reasonably necessary for the ordinary use and enjoyment of his land and the structure upon it.
+
+Manmade and natural spaces below land are capable of ownership. The space belongs to the owner of the surface of the land even if it was created by another and the landowner has no access.
+
+The owner is generally entitled to the minerals within the land. But this is subject to the rights of the Crown in relation to oil, coal, natural gas, gold and silver.
+
+Items found below the surface of the land belong to the landowner. (Unless they are items of treasure trove)
+
+
+*  Module 8
+
+**  Conveyancing
+
+Conveyancing is the legal process involved when property changes ownership.
+
+1) All conveyances of land or of any interest therin are void for the purpose of conveying or creating a legal estate unless made by deed.
+
+2) This section does not apply to-
+   a) assents by a personal representative;
+   b) surrenders by operation of law, including surrenders which may, by law, be effected without writing
+   c) leases or tenancies or other assurances not requires by law to be made in writing;
+   d) receipts other than those falling within section 115 below
+   e) vesting orders of the court or other competent authority
+   f) conveyances taking effect by operation of law
+
+
+Section 53 goes on to state that the disposition and creation of interests in land must be made in writing.
+
+1) Subject to the provision hereinafter contained with respect to the creation of interests in land by parol
+
+   a) no interest in land can be created or disposed of except by writing signed by the person creating or conveying the same, or by his agent thereunto lawfully authorised in writing, or by will, or by operation of law;
+
+   b) a declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will;
+
+   c) a disposition of an equitable interest or trust subsiding at the time of the disposition, must be in writing signed by the person disposing of the same, or by his agent thereunto lawfully authorised in writing or by will.
+
+   
+*** Procedure
+
+When a buyer has decided on a property they want to buy, he then maker an offer. This offer is usually done through the seller's estate agents. These types of offers are said to be made 'subject to contract', therefore even if the offer is accepted (unlike under the usual laws of contract) there will be no binding agreement until a formal contract is drawn up by the seller's conveyancers, agreed with the buyer, signed by both parties and exchanged.
+
+Once a seller accepts an offer then the conveyancing process begins. This process can be seperated into three sections.
+
+**** Pre-Contract
+
+This is the stage between the buyer making an offer and the contracts being exchanged. This stage is usually where both parties make their definitive decision to commit to the transaction. The buyer will make all relevant enquiries through their solicitor that there is nothing wrong with the property and that he is satisfied with the terms of sale. The buyer will also make the final arrangements to secure any money he may be borrowing to facilitate the purchase.
+
+Once the buyer is satisfied, the parties will exchange contracts, the buyer signs the drafted contract and sends to the seller's solicitor along with the necessary deposit. In return the contract is signed and sent to the buyer.
+
+It is essential to instruct a solicitor to act for you as either the seller or th ebuyer in a conveyancing transaction.
+
+The seller's solicitor must prepare the pre-contract package for the buyer, which includes the draft contract, evidence of the seller's legal title to the property and sometimes the results of pre-contract searches and other information relating to the property.
+
+The buyer's solicitor must check the documents supplied by the seller and raise any queries by means or questions or requests (known as 'requisitions'), often asking the seller to resolve any problems.
+
+The buyer's solicitor needs to carry out relevant pre-contract searches. Many of these will be with public bodies like the local authority and will enable the buyer to obtain information about the property.
+
+The buyer needs to confirm that he is able to proceed with the transaction in financial terms (usually this involves securing an offer of finance).
+
+When relevant checks have been completed and amendments to the contract negotiated, the buyer's solicitor can return the draft contract to the seller. Two copies of the contract are then printed; the seller signs one and the buyer signs the other.
+
+'Exchange of contracts' signifies the point at which a binding contract has been entered into. On exchange, the buyer will usually pay a deposit.
+
+**** Contract to Completion
+
+Both parties will then make final checks to ensure everything is still as it should be. Such as the buyer making sure nothing has changed with the property and that the required finance has been recieved. At this stage the deed is prepared and executed.
+
+The property has officially been sold when the deed is executed in exchange for the purchase price.
+
+**** Post contract stage
+
+The buyer raises further requisitions with the seller, usually to resolve procedural enquiries;
+
+At the same time, the buyer solicitor sends the draft purchase deed to the seller's solicitor. This activates the terms of the contract. Once the seller's solicitor has approved the deed it can be 'engrossed' (a copy is prepared and then signed, usually by both parties).
+
+The buyer's solicitor needs to obtain the mortgage loan from the buyer's lender and the money that the buyer has to make up the balance due on completion.
+
+The seller's solicitor must confirm with the seller's lender the exact amount of money required to discharge his mortgage (if he has one on the property).
+
+Completion can be done in person or by post, whereby the money is transmitted to seller's solicitor and the deeds are sent to the buyer's solicitor. 
+
+**** Post completion
+
+This is pretty much the clerical stage, where the transfer is registered, land tax and stamp duties are paid.
+
+It is necessary to note that although we refer to buyers and sellers as just that. The land registry uses alternate phrases. The seller, the person who is transferring their property to someone else is referred to as the transferor and the buyer, who is having property transferred to them is known as the transferee.
+
+The seller's solicitor discharging the seller's mortgage and sending a receipt to the buyer's solicitor.
+
+The buyer's solicitor must pay any stamp duty land tax due on the property.
+
+The buyer's solicitor must apply to the Land Registry for the title to be registered.
+
+** Mortgages
+
+Two parties involved in a mortgage are labelled
+
+Mortgagor - This is the name given to the person borrowing money and granting the mortgage. A mortgage is the name given to the deed that has to be executed and creates the basis of the property become security for the loan. So in a typical house purchase, the bank grants a loan and the buyer grants a mortgage to the bank.
+
+Mortgagee - This is the party lending the money, typically a bank or building society. They lend money to the buyer in return for a mortgage to use the house as security for the debt.
+
+The word mortgage derives from French. Mort meaning deed and Gage meaning pledge. In simple terms, the Mortgagee (Lender) grants to the Mortgagor (borrower) a loan. The borrower then grants to the Lender a Mortgage (i.e a legal interest in the land secured by way of a Mortgage Deed) to secure the payment of a loan.
+
+If the mortgagor repays the loan, then the mortgage is cancelled and the mortgagor assumes full control of the land. If the loan is not repaid, then the mortgagee can take possession of the land in settlement of the debt.
+
+It should be remembered that the mortgages can be executed over freeholds or leasehold, whether the title is registered or unregistered, and the mortgage created can be either legal or equitable.
+
+*** Legal and Equitable Mortgages
+
+**** Legal Mortgage
+
+For freeholds land - Granting of a lease for a term of years subject to the promise that the lease will terminate upon repayment of the debt.
+
+A charge by deed expressed to by way of a legal mortgage (legal charge). This method is more popular as it is simpler.
+
+In both instances the legal estate becomes the property of the mortgagor, however the mortgagee (bank) will have created a legal interest in the land until the mortgage is paid off.
+
+Legal mortgages can now only be created by legal charge as of 2002. However due to the length of mortgages, as you can imagine, there are still a substantial amount of mortgages in existence that were created prior to 2002.
+
+**** Equitable Mortgage
+
+These are created by:
+
+The mortgagor depositing the title deeds (unregistered land) or title information (registered land) with the mortgagee with the intent that they will be security for the loan
+
+By depositing the title deeds (unregistered land) or title information document (registered land) and putting the intent beyond doubt by the Mortgagor(s) completing a memorandum which evidences that the title documents have been deposited and security. Note: The memorandum is usually signed under hand. But, if executed under seal, it will contain special clauses, which give the Mortgagee the equivalent rights of a legal Mortgagee.
+
+** Types of Mortgages.
+
+*** Repayment Mortgages
+
+The money is borrowed over a specified period of time (usually 25 years) the capital loan and interest owed over 25 years are calculated and divided into equal monthly payments. The payments may change slightly depending on whether the individual has a fixed rate mortgage or a variable mortgage.
+
+*** Endowment Mortgage
+
+With this type of mortgage an endowment policy is taken out at the same time as the mortgage with Insurance Company. An endowment policy is one whereby the Insurance Company will pay out a lump sum at a fixed future date on the basis of your paying to them a monthly premium. The idea is that the Insurance Company will invest the premiums and therefore you will get back more than you pay in. This is not such a popular type of mortgage than it used to be, as investment yields have not done very well over the years.
+
+** Remedies of a Legal Mortgage
+
+- Sue for the debt on the mortgagor's personal covenant to repay
+
+This remedy is available also to unsecured creditors and is used when the mortgagor is unwilling rather than unable to settle a debt. It saves realising the security, but is a process rarely taken because the mortgagor's unwillingness to pay is invariably due to him having insufficient funds. Today, some mortgage forms omit the availability of this remedy - but it is available as a right anyway.
+
+- Appoint a Receiver
+
+This occurs primarily with properties that are rented out to tenants. The receiver collects rent from the property and applies them to debt in the following order:
+
+1) In payment of outstanding amounts to any prior mortgagee;
+
+2) In payment of rates, taxes and other outgoings;
+
+3) In payment of his own commission;
+
+4) In payment of insurance;
+
+5) In reduction of the principal amount die, when directed by the mortgagee.
+
+
+The receiver is deemed to be an agent of the mortgagor and, therefore, the mortgage is not liable for any of his actions, nor is he liable for the costs of Receivership.
+
+- Foreclose
+
+A foreclose order will deprive the mortgagor of his equity of redemption. Meaning this deprives the mortgagor redeeming full legal interest in the property at the end of the mortgage. The property will be vested forever in the name of the mortgagee. These orders are granted by the court, however they are very rare. Foreclosures do not achieve much for either party, as the mortgagor upon bringing a legal action simply wants to be repaid. Therefore a sale would make more sense.
+
+- Enter into possession
+
+This remedy is rarely pursued because the same effect is achieved more economically and without onerous responsibilities by appointing a Receiver. However, in theory, this right is available. When it is used, the mortgagee becomes accountable, not only for the profits which he received, but also for those which might have been received has he, as mortgagee not been negligent.
+
+- Sell the property
+
+  Most commonly exercised legal remedy, whereby the mortgagee exercises their power to sell the property. The mortgagee has the right to do so when the mortgagor has defaulted on payments for three months of a total of at least two months interest has become due.
+
+
+* Module 9
 
 * Simplified Terms
 
@@ -436,8 +729,15 @@ This means the buyer or lender was clearly aware of the claim on the property.
 *Constructive Interests*
 This means the buyer or lender should have known about something if they had made reasonable checks or inquiries. Its about what they ought to know, not just what they actually know.
 
+*Beneficial Interest*
+Beneficial interest is the right to enjoy or benefit from something, even if you don’t actually own it. You might not have legal ownership, but you get to use it, make decisions about it, or receive any rewards from it.
+So, if you put a house in someone else's name, but you still live in it or get the rent money, you have the beneficial interest in that house — even though the other person holds the legal title.
+
 *Equitable Interest*
 An equitable interest is a legal right or claim on a property that isn't full ownership but gives someone a fair share or benefit. For example, if someone has invested in or has a promise related to the property, they may have an equitable interest in it.
+
+*Equitable Ownership*
+Equitable ownership is when someone has the right to something, even though someone else is physically holding or controlling it. It's like the "real" ownership that exists even if you don’t have the item in your hands right now.
 
 *Overriding Interests*
 Overriding interests are property rights that bind a new owner or lender, even if they're not registered on the lands official record. These rights "override" the registration system, meaning they still apply without being noted on the title.
@@ -451,3 +751,5 @@ An equitable easement is a legal agreement that gives the owner of one property 
 
 *Interest*
 Interest itself means someone's legal rights or claims over a piece of property.
+
+
