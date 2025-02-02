@@ -709,6 +709,62 @@ This remedy is rarely pursued because the same effect is achieved more economica
 
 * Module 9
 
+** Overreaching
+
+Overreaching is where certain equitable interests in land cease upon the sale of land.
+
+It is a mechanism aimed at achieving conveyancing efficiency with minimal regard to protecting interests held in land. It applies where there exists a trust of land in both registered and unregistered land. Overreaching is the process by which the rights of beneficiaries under a trust of land, become detached from land on conveyance and attach to the proceeds of sale. Thus a person holding only beneficial ownership can be said to have rights in the value of the land rather than the land itself.
+
+Difficulties arise where the beneficial owner does not hold legal title as the trustees may convey the property without their knowledge or consent. Overreaching ensures the purchaser of land takes the property free from any beneficial interests and applies irrespective of notice.
+
+Exceptions:
+
+1) Any equitable interest protected by a deposit of documents relating to the legal estate affected;
+
+2) The benefit of any covenant or agreement restrictive of the user of land;
+
+3) Any easement, liberty, or privilege over or affecting any land and being merely and equitable interest.
+
+4) The benefit of any contract to convey or create a legal estate, including a contract conferring either expressly or by statutory implication a valid option to purchase, a right of pre-emption, or any other like right;
+
+5) Any equitable interest protected by registration under the Land Charges Act, 1925, other than
+
+   a) An annuity within the meaning of Part 2. Of that Act;
+   b) A limited owner's charge or a general equitable charge within the mearning of that Act.
+
+
+*Overreaching applies where there is a conveyance to a purchaser of a legal estate*
+
+The definition of purchaser applicable to overreaching is where "a person who aquires an interest in or charge on property for money or money's worth as per Section 205(1) Law of Property Act 1925
+
+Overreaching will operate even where a mortgage discharged existing indebtedness so that no money was advanced.
+
+In order for overreaching to operate, the purchaser must pay any capital money arising under the conveyance to at least two trustees or a trust corporation.
+
+
+* Module 10
+
+Those who do not own land but legally obtain the right to enjoy usage of land by way of lease.
+
+** Leases and Licenses
+
+A lease is a form of ownership of land, however, unlike freehold ownership which lasts forever, leasehold ownership lasts for a specified period of time. A lease may take the form of a legal estate or it may be an equitable interest depending on the formality used to create it. It is important to distinguish a lease from a licence.
+
+If a person occupies under a lease they have more protection than one who occupies under a licence. Leases created prior to January 1989 are protected by the Rent Act 1977 which provided tenants some protection from eviction and also provides that tenants are only obliged to pay a fair rent which may be less than market value.
+
+Tenancies created after January 1989 have less protection under the housing act 1988. Licensees, however have limited protection, in many instances they may be evicted at will or in the event of a contractual license the term of notice provided in the contract. Licensees have no interest (legal or equitable) in land.
+
+Personal Privilege given to a person (license) or interest in land (tenancy)
+
+A lease may be created even if the landlord does not have an estate which enables him to grant a lease. A lease will only be created where all the requirements of a lease are present.
+
+Three requirements for a valid lease were held to be:
+
+1) The grant of exclusive possession
+2) For a period of time which is certian
+3) The payment of rent
+
+
 * Simplified Terms
 
 *Bona Fides*
@@ -735,6 +791,9 @@ So, if you put a house in someone else's name, but you still live in it or get t
 
 *Equitable Interest*
 An equitable interest is a legal right or claim on a property that isn't full ownership but gives someone a fair share or benefit. For example, if someone has invested in or has a promise related to the property, they may have an equitable interest in it.
+
+*Legal Interest*
+A legal interest is a right in property governed by statute and common law.
 
 *Equitable Ownership*
 Equitable ownership is when someone has the right to something, even though someone else is physically holding or controlling it. It's like the "real" ownership that exists even if you don’t have the item in your hands right now.
