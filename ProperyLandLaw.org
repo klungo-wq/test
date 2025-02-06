@@ -765,6 +765,37 @@ Three requirements for a valid lease were held to be:
 3) The payment of rent
 
 
+* Module 11
+
+** Requirements of a Lease
+
+1) the grant of exclusive possession
+2) for a period of time which is certian
+3) the payment of rent
+
+*** Exclusive possession
+
+Exclusive possession is the most contentious and complex requirement for a lease. Exclusive possession looks to legal entitlement rather than what is actually going on in practice. In this sense it needs to be distinguished from exclusive occupation which does relate to what is happening in practice.
+
+If a person does not have exclusive occupation then they do not have exclusive possession and therefore they do not have a lease.
+
+A lodger is a licencee as opposed to a tenant. A lodger is one who shares occupation of the premises with the owner. A lodger does not have the right to exclude the owner from the premises. The owner may provide services to the lodger such as meals and cleaning services.
+
+Long term hotel residents are licensees.
+
+*Service Occupancy*
+
+Where the occupation arises through employment this is likely to create a licence as opposed to a tenancy. To determine if an occupation is one of service, the test applied is whether the servant is required to occupy premises in order to better perform his duties as a servant.
+
+*Social and Domestic agreements*
+
+In social and domestic agreements between friends and family it is presumed that there is no intention to create legal regulations and therefore a licence is created rather than a lease.
+
+** Certain period of time
+
+To create a lease the grant must be for a certain period of time. This means there must be an identifiable start date and there must be certainty as to the duration of the lease.
+
+
 * Simplified Terms
 
 *Bona Fides*
