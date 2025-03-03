@@ -878,6 +878,30 @@ Under the modern approach there are three requirements to establish an equity fo
 
 3) The claimant must have acted to their detriment as a result of the assurance.
 
+** An Assurance
+
+An assurance may be active or passive. An active assurance can be by words or conduct of the owner that leads the claimant to believe that they will have an interest in the house.
+
+A passive assurance is where the claimant is mistaken in his expectation that they would gain an interest in the land and the owner stands by and does nothing to change their belief. 
+
+If these requirements are not recognised, proprietary estoppel will lose contact with its roots and risk becoming unprincipled and therefore unpredictable if it has not already become so. 
+
+The assurance must relate to an interest in the property.
+
+** Reliance on the Assurance
+
+The claimant must show that they had relied on the assurance. This is generally shown through changing their conduct.
+
+In most instances, it is relatively easy to establish reliance and the courts have come close to adopting a presumption of reliance where there exists a representation. 
+
+** Detriment or change of position 
+
+The claimant must act to their detriment or significantly change their position. 
+
+** Satisfying the Equity
+
+Once an equity has been established by the claimant, the court must assess the appropriate remedy to award. This is a matter of deciding which interest in land to award or whether to award monetary compensation. in doing so, the courts have a wide discretion to do. what is just an equitable to satisfy the equity. the courts will have regard to the expectation of the claimant but the interest they expected is not always the one awarded the courts will consider the proportionality between the expectation and the detriment.
+
 * Simplified Terms
 
 *Bona Fides*
