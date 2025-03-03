@@ -796,6 +796,88 @@ In social and domestic agreements between friends and family it is presumed that
 To create a lease the grant must be for a certain period of time. This means there must be an identifiable start date and there must be certainty as to the duration of the lease.
 
 
+* Module 12
+
+** Adverse Possession
+
+This is the process whereby an individual commonly referred to as a squatter, takes possession of land and later attempts to establish rights over that land. (Usually 12 years)
+
+*** Claiming adverse possession
+
+In order to make a successful claim on either registered or unregistered land the squatter must demonstrate that they were in factual possession for the requisite period of time and that they had the intention to possess. [Powell v McFarlane]
+
+** Factual Possession
+
+What counts as Factual Possession will differ depending on the nature of the land. The possession must be exclusive and it must be adverse [Lord Advocate v Lord Lovat] [Red House Farms v Catchpole]
+
+Fencing the land off will generally be indicative of factual possession. [Buckingham CC v Moran]
+
+1) True owner must either a) have been dispossessed, or b) have discontinued his possession, of the land; and
+
+2) The squatter must have been in adverse possession of it for the statutory period before action brought.
+
+
+*Possession must be adverse*
+
+The squatter must be in factual possession as a trespasser. If they have permission to be on the land, the possession is not adverse. However if a person exceeds their permission this may be classed as adverse.
+
+*The possession must be open and not deliberately concealed*
+
+It should be clear upon reasonable inspection of the land that the other party adversely possesses the land.
+
+** Intention to Possess
+
+Once the squatter has established they were in factual possession, they must also demonstrate that they had the intention to possess.
+
+A person with a mistaken belief in permission can have the necessary intent to possess.
+
+*Dispossession of the squatter by the paper owner*
+
+The paper owner of the land may dispossess the squatter before the expiry date of the limitation period to defeat their claim. Concurrent possession with the squatter will prevent adverse possession starting but it is insufficient to dispossess. In addition oral demands for possession are insufficient.
+
+A written demand is also insufficient [Mount Carmel Investments v Peter Thurlow]
+
+Acknowledgement of payment by the squatter will break the continuity of the adverse possession.
+
+** Acquiring Title
+
+Where the land is unregistered, the squatter acquires good title to the land after being in adverse possession for 12 years.
+
+If the land is registered the squatter must make an application to the registrar after 10 years of adverse possession. The registrar is then obliged to notify to the registered proprietor of any registered charge on the estate. This is to alert them to the intended claim on the estate and give them the opportunity to object to the registration.
+
+If no objection is lodged, the applicant squatter will be registered as the proprietor within 65 days of the notice being issued. This applies even if the notice did not reach the registered proprietor.
+
+A valid objection will defeat the squatter's application to be registered at this point. The interested party must take steps to evict the squatter. If they fail to do so, the squatter can make a further application after two further years of being in adverse possession.
+
+
+* Module 13
+
+** Proprietary Estoppel
+
+Proprietary Estoppel is a process whereby a person's equitable interest is recognized by the courts as it would be unconscionable to disregard it.
+
+The doctrine of proprietary estoppel can be used to create freehold ownership, a lease, a license or an easement. It requires the claimant to establish an equitable interest.
+
+5 legal rights to fight proprietary estoppel
+
+1) plaintiff must make a mistake as to his legal rights
+
+2) plaintiff must have expended some money or must have done some act on the faith of his mistaken belief
+
+3) the defendant must know of the existence of his own right which is inconsistent with the right claimed by the plaintiff
+
+4) the defendant must know of the plaintiff's mistaken belief of his rights
+
+5) the defendant must have encouraged the plaintiff in his expenditure of money or in the other acts which he has done, either directly or by abstaining from asserting his legal right. (the defendant must have encouraged the claimant in his act of reliance)
+
+Under the modern approach there are three requirements to establish an equity for proprietary estoppel:
+
+1) An assurance giving rise to an expectation that the claimant would have an interest in land
+
+2) The claimant must demonstrate reliance on the assurance
+
+3) The claimant must have acted to their detriment as a result of the assurance.
+
 * Simplified Terms
 
 *Bona Fides*
